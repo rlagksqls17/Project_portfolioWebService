@@ -17,7 +17,7 @@
 
 ```
 # 폴더 내용  
-./ backend
+./backend
     - app.py # flask 실행
     - models.py # 데이터 모델 
     - show_data.py # 유저 정보 조회
