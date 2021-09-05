@@ -45,7 +45,7 @@ hanbinsproject
             
     	./UserDetail # 유저 프로필 관련 폴더
         	- userdetail.js # 아래 두 컴포넌트들을 조합하여 불러옴
-        	./ButtonComponent # 유저 프로필 버튼
+        ./ButtonComponent # 유저 프로필 버튼
             	- addinfobutton.js # 추가버튼
                 - updateinput.js # 수정버튼
                 
@@ -56,5 +56,4 @@ hanbinsproject
                 - project.js # 프로젝트 정보
                 - userinfo.js # 사용자 프로필 요약
 ```
-
 
