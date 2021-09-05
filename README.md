@@ -38,10 +38,10 @@ hanbinsproject
         - userinfo.js # 사용자 정보 조회 페이지
         
         ./auth
-        - index.js # 유저 토큰 관리
+            - index.js # 유저 토큰 관리
             
         ./image 
-        - upload-1118928_640.png # 업로드 버튼 이미지
+            - upload-1118928_640.png # 업로드 버튼 이미지
             
     	./UserDetail # 유저 프로필 관련 폴더
         	- userdetail.js # 아래 두 컴포넌트들을 조합하여 불러옴
