@@ -15,15 +15,14 @@
 
 ## 파일구성 
 
-```python
+```
 # 폴더 내용  
-hanbinsproject  
 ./ backend
-- app.py # flask 실행
-- models.py # 데이터 모델 
-- show_data.py # 유저 정보 조회
-- update_data.py # 유저 정보 수정
-- user_api # 로그인과 회원가입, 토큰 관리
+    - app.py # flask 실행
+    - models.py # 데이터 모델 
+    - show_data.py # 유저 정보 조회
+    - update_data.py # 유저 정보 수정
+    - user_api # 로그인과 회원가입, 토큰 관리
     
 ./frontend  # 프론트엔드 서버 파일
   ./src
